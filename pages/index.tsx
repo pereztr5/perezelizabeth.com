@@ -1,14 +1,9 @@
 import {
   Box,
-  Button,
   Container,
   Heading,
-  Grid,
-  GridItem,
   VStack,
-  Flex,
   SimpleGrid,
-  Spacer,
   Text,
 } from '@chakra-ui/react'
 import { Member } from '../components/Member'
@@ -16,7 +11,7 @@ import { Artwork } from '../components/Artwork'
 import { members } from '../components/_data'
 import { artworks } from '../components/_artwork_data'
 
-export default function Landing() {
+export default function Home() {
   return (
     <VStack spacing={4} align="stretch">
       <Box as="section">
