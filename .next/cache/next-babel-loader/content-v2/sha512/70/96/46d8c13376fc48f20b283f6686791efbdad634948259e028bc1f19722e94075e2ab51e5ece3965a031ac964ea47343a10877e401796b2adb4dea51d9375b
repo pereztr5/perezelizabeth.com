@@ -1,1 +1,0 @@
-{"ast":null,"code":"export var members = [{\n  role: 'Designer',\n  image: '/images/profile.png',\n  name: 'Elizabeth Perez',\n  twitter: '#',\n  linkedin: '#',\n  description: 'Diam maecenas sed enim ut sem viverra aliquet eget magna ac placerat vestibulum.'\n}];","map":null,"metadata":{},"sourceType":"module"}
